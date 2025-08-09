@@ -34,7 +34,7 @@ The dataset (14,249 rows initially) contains employee information such as:
 
 ---
 
-## 🎯 Architecture  
+## 🏛️ Architecture  
 <img width="414" height="608" alt="image" src="https://github.com/user-attachments/assets/c0a07a76-ae22-4b4a-aa84-394694e50967" />
 
 ---
